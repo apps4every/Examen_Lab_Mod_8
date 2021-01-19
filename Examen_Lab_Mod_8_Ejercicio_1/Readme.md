@@ -11,13 +11,6 @@ Miguel Ángel Cabrero Luengo
 #### Objetivo del ejercicio:
 Crear una solución multi cliente utilizando servicios de Azure
 
-#### Tareas realizadas:
-
-- Ejecución de la aplicación
-
-- Revisar la estructura de la aplicación de los principales elementos del código
-
-- Añadir funcionalidad básica: Una página de test y obtención y visualización de animales.
 
 ### Exercise 1: Creating an Azure App Service resource by using a Docker container image
 
